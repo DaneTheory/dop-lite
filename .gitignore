@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Logs
+log
+logs
+*.log
+npm-debug.log*
+
+# IDE
+.idea
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Files
+dist
+testing/
+package-lock.json
+examples/drag/package-lock.json
+examples/todomvc/package-lock.json
