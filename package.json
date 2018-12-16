@@ -5,10 +5,10 @@
     "browser": "./dist/dop.js",
     "unpkg": "./dist/dop.min.js",
     "license": "MIT",
-    "url": "http://TODO.com",
+    "url": "https://github.com/DaneTheory/dop-lite",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DaneTheory/TODO.git"
+        "url": "git+https://github.com/DaneTheory/dop-lite.git"
     },
     "author": "Branden Dane (http://DaneTheory.com/)",
     "description": "A smaller, less opiniated version of the Distributed Object Protocol.",
